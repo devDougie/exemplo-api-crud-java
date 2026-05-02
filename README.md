@@ -93,7 +93,7 @@ O padrão **Controller → Service → Repository** (arquitetura em camadas) é 
 
 As configurações abaixo foram utilizadas para gerar a base do projeto em [start.spring.io](https://start.spring.io):
 
-![Spring Initializr](URL_DA_IMAGEM_AQUI)
+![Spring Initializr](https://github.com/user-attachments/assets/2589d813-408e-4ba1-8f4c-fab4c746cf40)
 
 ### `pom.xml`
 Arquivo de configuração do Maven. Define as dependências do projeto, a versão do Java (`17`), o `groupId` (`com.api`), o `artifactId` (`crud`) e os plugins de build. O `spring-boot-starter-parent` como parent POM garante que todas as dependências Spring usem versões compatíveis entre si, sem necessidade de declarar versões manualmente.
