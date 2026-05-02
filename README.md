@@ -21,8 +21,8 @@ Módulo do Spring responsável por expor os endpoints HTTP da aplicação. Habil
 ### Spring Data JDBC
 Módulo do Spring para acesso ao banco de dados via JDBC puro. Diferente do JPA/Hibernate (que mapeia objetos automaticamente para tabelas), o Spring Data JDBC com `JdbcTemplate` exige que as queries SQL sejam escritas manualmente — o que é ideal para aprendizado, pois torna o acesso ao banco explícito e transparente. O `JdbcTemplate` também gerencia automaticamente a abertura e o fechamento de conexões.
 
-### HikariCP
-Pool de conexões incluído automaticamente pelo Spring Boot. Em vez de abrir uma nova conexão com o banco a cada requisição (o que é custoso), o HikariCP mantém um conjunto de conexões reutilizáveis. No console de inicialização ele aparece como `HikariPool-1 - Start completed`.
+<!-- ### HikariCP
+Pool de conexões incluído automaticamente pelo Spring Boot. Em vez de abrir uma nova conexão com o banco a cada requisição (o que é custoso), o HikariCP mantém um conjunto de conexões reutilizáveis. No console de inicialização ele aparece como `HikariPool-1 - Start completed`. -->
 
 ### MySQL
 Sistema de gerenciamento de banco de dados relacional. Roda como um serviço independente e aceita conexões via rede — por isso a URL de conexão usa `localhost:3306` e não um caminho de arquivo Windows. O driver de conexão utilizado é o `mysql-connector-j`.
