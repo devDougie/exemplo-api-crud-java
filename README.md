@@ -327,29 +327,38 @@ http://localhost:8080/swagger-ui.html
 > 💡 **Como adicionar os GIFs:** grave cada operação com o [ScreenToGif](https://www.screentogif.com/) (gratuito), salve os arquivos na pasta `docs/` na raiz do projeto e substitua os blocos abaixo pela sintaxe `![descrição](docs/nome-do-arquivo.gif)`.
 
 **POST — Criar pessoa**
-```
-[ GIF aqui ]
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3ddf969a-8336-40ea-b725-eff10b9d91e9">
+</div>
+<br>
+<br>
 
 **GET — Listar todas**
-```
-[ GIF aqui ]
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2df9fdb4-e26e-48b9-bc24-ed7194db676b">
+</div>
+<br>
+<br>
 
 **GET — Buscar por ID**
-```
-[ GIF aqui ]
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/207bd8de-1d4b-45cf-896d-aa1bf7c29154">
+</div>
+<br>
+<br>
 
 **PUT — Atualizar**
-```
-[ GIF aqui ]
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3279d835-1245-4d90-8dbf-0ad99b63bbfd">
+</div>
+<br>
+<br>
 
 **DELETE — Remover**
-```
-[ GIF aqui ]
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f03871c2-54fa-4011-92dc-167a3ecf83a8">
+</div>
+<br>
 
 ---
 
